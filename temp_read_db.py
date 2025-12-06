@@ -1,6 +1,6 @@
 import sqlite3
 import os
-
+#Creado para sacar la data de Sqlite
 db_path = 'facturas.db'
 if not os.path.exists(db_path):
     print("La base de datos no existe.")

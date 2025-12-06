@@ -32,4 +32,3 @@ A continuación se muestra una tabla con los datos extraídos y almacenados en l
 | E54110424120908R001363335100.PDF    | 1                 | 1d2a3b4c5e6f78901d2a3b4c5e6f78901d2a3b4c5e6f78901d2a3b4c5e6f78901d2a3b4c5e6f78901d2a3b4c5e6f78901d2a | 0.1234                |
 | E54130324071704R001359470200.PDF    | 1                 | 9f8e7d6c5b4a32109f8e7d6c5b4a32109f8e7d6c5b4a32109f8e7d6c5b4a32109f8e7d6c5b4a32109f8e7d6c5b4a32109f8e | 0.2345                |
 | E54180324100719R001359975500.PDF    | 1                 | abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcd | 0.3456                |
-| ...                                 | ...               | ...                                                                                                | ...                   |
